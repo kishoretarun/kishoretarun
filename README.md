@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React, Full stack development**
+- 🔭 I’m currently working on **Spring boot, React, Full stack development**
 
 - 💬 Ask me about **Java, Spring framework, Microservices**
 
